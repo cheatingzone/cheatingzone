@@ -13,7 +13,7 @@ Hey we are a small company, i want to introduce us. My name is ice bear and im 1
 - 🔭 We are a small company that makes cheats, tools and apps.
 - 🤔 We're looking for apps/tools ideas.
 - 📫 How to reach us: cheatingzone5@gmail.com
-- 😄 Pronouns: WeLove/Tools.
+- 😄 Pronouns: WeLove/Cheating.
 - ⚡ Fun fact: 60% of our tools are open source.
 
 #### Top Technologies
