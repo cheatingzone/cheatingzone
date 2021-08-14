@@ -31,6 +31,7 @@ Hey we are a small company, i want to introduce us. My name is ice bear and im 1
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cheatingzone.cheatingzone)
+[![Followers badge](https://img.shields.io/github/followers/cheatingzone?style=social)]
 
 <details>
 <summary>
